@@ -40,13 +40,13 @@ export const Filters = styled.div`
 	}
 `;
 
-export const InputContent = styled.div`
+export const InputContent = styled.form`
 	display: flex;
 	flex-direction: row;
 	align-items: center;
-	margin: 0px;
+	margin: 0px 10px;
 	a {
-		padding: 16px 30px;
+		padding: 18px 30px;
 		color: #fff;
 		background: #014877;
 		font-size: 20px;

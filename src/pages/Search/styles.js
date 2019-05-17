@@ -67,3 +67,15 @@ export const ResultTitle = styled.h2`
 	font-size: 20px;
 	font-weight: 300;
 `;
+
+export const ModalTitle = styled.h1`text-align: center;`;
+
+export const ModalContent = styled.p`
+	font-size: 18px;
+	padding: 5px 0px;
+`;
+
+export const ModalDetail = styled.p`
+	font-size: 16px;
+	padding-bottom: 5px;
+`;

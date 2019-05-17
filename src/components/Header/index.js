@@ -16,10 +16,10 @@ export default class Header extends Component {
 						<Link to="/">Home</Link>
 					</li>
 					<li>
-						<a href="">Teste</a>
+						<Link to="/login">Login</Link>
 					</li>
 					<li>
-						<a href="">Admin</a>
+						<Link to="/tcc/cadastro">Cadastro TCC</Link>
 					</li>
 				</Nav>
 			</Container>
